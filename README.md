@@ -7,27 +7,6 @@ Este é um aplicativo de gerenciamento de produtos desenvolvido em React. Ele pe
 2. **Listar produtos** em uma tabela ordenada pelo valor (do menor para o maior).
 3. **Filtrar produtos** por disponibilidade (disponíveis, indisponíveis ou todos).
 
-## Funcionalidades
-
-- **Cadastro de Produto:**
-  - Formulário para adicionar nome, descrição, valor e disponibilidade do produto.
-  - Após o cadastro, o produto é automaticamente exibido na listagem.
-
-- **Listagem de Produtos:**
-  - Tabela com nome e valor dos produtos.
-  - Botão para cadastrar um novo produto.
-
-- **Filtragem:**
-  - Seletor para filtrar produtos com base na disponibilidade:
-    - Disponíveis para venda.
-    - Indisponíveis para venda.
-    - Todos os produtos.
-
-## Requisitos para Executar o Projeto
-
-- Node.js (versão mais recente recomendada).
-- Gerenciador de pacotes npm ou yarn.
-
 ## Como Instalar e Executar
 
 1. **Clone o repositório:**
@@ -52,6 +31,27 @@ Este é um aplicativo de gerenciamento de produtos desenvolvido em React. Ele pe
 
 4. **Acesse no navegador:**
    O aplicativo estará disponível em [http://localhost:3000](http://localhost:3000).
+
+## Funcionalidades
+
+- **Cadastro de Produto:**
+  - Formulário para adicionar nome, descrição, valor e disponibilidade do produto.
+  - Após o cadastro, o produto é automaticamente exibido na listagem.
+
+- **Listagem de Produtos:**
+  - Tabela com nome e valor dos produtos.
+  - Botão para cadastrar um novo produto.
+
+- **Filtragem:**
+  - Seletor para filtrar produtos com base na disponibilidade:
+    - Disponíveis para venda.
+    - Indisponíveis para venda.
+    - Todos os produtos.
+
+## Requisitos para Executar o Projeto
+
+- Node.js (versão mais recente recomendada).
+- Gerenciador de pacotes npm ou yarn.
 
 ## Estrutura do Projeto
 
